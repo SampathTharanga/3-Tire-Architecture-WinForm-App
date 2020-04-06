@@ -1,0 +1,10 @@
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\BusiinessLayer\bin\Debug\BusiinessLayer.dll
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\BusiinessLayer\bin\Debug\BusiinessLayer.pdb
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\BusiinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\BusiinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\BusiinessLayer\obj\Debug\BusiinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\BusiinessLayer\obj\Debug\BusiinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\BusiinessLayer\obj\Debug\BusiinessLayer.dll
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\BusiinessLayer\obj\Debug\BusiinessLayer.pdb
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\BusiinessLayer\bin\Debug\Database3Tire.mdf
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\BusiinessLayer\bin\Debug\Database3Tire_log.ldf

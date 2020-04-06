@@ -1,0 +1,8 @@
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\DataLayer\bin\Debug\Database3Tire.mdf
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\DataLayer\bin\Debug\Database3Tire_log.ldf

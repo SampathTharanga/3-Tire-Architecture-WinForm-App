@@ -1,0 +1,16 @@
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\obj\Debug\WindowsUI.csprojResolveAssemblyReference.cache
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\obj\Debug\WindowsUI.Properties.Resources.resources
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\obj\Debug\WindowsUI.csproj.GenerateResource.Cache
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\obj\Debug\WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\bin\Debug\WindowsUI.exe.config
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\bin\Debug\WindowsUI.exe
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\bin\Debug\WindowsUI.pdb
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\obj\Debug\WindowsUI.Form1.resources
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\obj\Debug\WindowsUI.exe
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\obj\Debug\WindowsUI.pdb
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\bin\Debug\BusiinessLayer.dll
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\bin\Debug\DataLayer.dll
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\bin\Debug\BusiinessLayer.pdb
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\bin\Debug\DataLayer.pdb
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\bin\Debug\Database3Tire.mdf
+C:\Users\Sampath\Desktop\THADIYA SERVAY DIPARTMENT\3 Tire Architecture\3TireArchitecture\WindowsUI\bin\Debug\Database3Tire_log.ldf
